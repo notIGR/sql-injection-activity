@@ -1,5 +1,5 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(210, 200, 219);
 }
 
 h1 {
@@ -7,5 +7,5 @@ h1 {
     margin-right: 30px;
 }
 p {
-    color: green;
+    color: rgb(14, 22, 14);
 }
